@@ -1,4 +1,5 @@
 Latar Belakang, tujuan dan stakeholder
+
 Griya Alsis Residence merupakan guest house atau sebuah tempat penginapan, pada dasarnya setiap tempat penginapan membutuhkan program untuk manajemen data kamar untuk melakukan pencatatan dan pengecekan ketersedian kamar, Dalam program ini disediakan 4 menu utama untuk manajemen data kamar tersebut dan memiliki setiap fiturnya memiliki kegunaanya masing-masing. 
 
 Tujuan utama dari pengembangan program ini adalah untuk:
